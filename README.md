@@ -23,9 +23,14 @@ Este projeto foi feito com o intuito de eu aprimorar meus conhecimentos como <br
  </ul>
  <h1>Sobre o Front-End Mentor 👨‍🏫 </h1>
 <img alt='' src="https://github.com/Bielfer12/ingredient-recipe/blob/main/assets/images/front_end.png">
-<p><b>O Front-End Mentor é um site aonde vocepode achar varios tipos de design de páginas, indo desde lojas, ingredientes, logins, entre muitas outras variedades. Desenvolvida para desenvolvedores Web que procuram testar e aprimorar seus conhecimentos em HTML, CSS e JS.</b>
-<ul>
- <li>
- 
+<p><b>👩‍💻 O Front-End Mentor é um site aonde você pode achar varios tipos de design de páginas, indo desde lojas, ingredientes, logins, entre muitas outras variedades. Desenvolvida para desenvolvedores Web que procuram testar e aprimorar seus conhecimentos em HTML, CSS e JS.</b>
+
+<p>⭐ Vários tipos de Desafios.</p>
+<p>⭐ No proprio desafios ja aparece as competencias que precisa para faze-lo.</p>
+<p>⭐ Testar os conhecimentos em desenvolvimento Web</p>
+<p>⭐ Link para o Front-End Mentor: https://www.frontendmentor.io</p>
+
+<h1>FIM!! 😉</h1>
+<p>Muito obrigado por dar uma olhada neste projeto, a baixo vou deixar meu perfil no Faront-End Mentor e outros links, até mais!!.</p> 
  
 
