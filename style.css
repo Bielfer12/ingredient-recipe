@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+body {
+background: #eedae5;
+height: 100%;
+
+}
+
+:root {
+--young-serif:"Young Serif", serif 400 normal;
+--li-marker:#800000;
+--negrito-faco:rgba(0, 0, 0, 0.8); 
+--background-02:white;
+}
+
+#container-total {
+
+    width: 660px;
+    padding: 50px;
+    border-radius: 20px;
+    margin: 40px auto 50px;
+    margin-bottom:60px;
+    align-items: center;
+    background: white;
+    
+}
+
+#container-total img {
+    width: 660px;
+    border-radius: 10px;
+}
+
+#container-rotal h1 {
+    font-family: "Young Serif", serif;
+    font-weight: 100;
+
+}
+
+#container-total p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    padding-bottom: 15px;
+    font-family: "Outfit", sans-serif;
+}
+
+#container-rotal h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+#preparation-time {
+    background: #eedae5;
+    border-radius: 5px;
+    display:block;
+    padding: 15px;
+}
+
+#preparation-time  h2 {
+    padding: 10px 0 0 12px;
+    margin: 0;
+    color: #800000;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+}
+
+#preparation-time  ul {
+    font-size: 16px;
+    font-family: "Outfit", sans-serif;
+    gap: 5px;  
+}
+
+#preparation-time  strong{
+    color: rgba(0, 0, 0, 0.8);   
+}
+
+#preparation-time  li {
+    font-family: "Outfit", sans-serif;
+padding-left: 25px;    
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#ingredients h3 {
+    color: #800000;
+    font-family:"Young Serif", serif;
+    font-weight: 300;
+    font-size: 30px ;
+   
+}
+
+#ingredients ul {
+    padding-left: 22px;
+margin-bottom: 40px;
+font-family: "Outfit", sans-serif;
+}
+
+
+#ingredients li{
+    padding-left: 22px;
+
+}
+
+#ingredients li::marker{
+    color: var(--li-marker)
+}
+
+#instructions h4{
+    color: #800000;
+    font-family:"Young Serif", serif;
+    font-weight: 300;
+    font-size: 30px ;
+    margin:25px 0px;
+}
+
+#instructions ol {
+    padding-left: 22px;
+    margin-bottom: 40px;
+    font-family: "Outfit", sans-serif;
+}
+
+#instructions li{
+    padding-left: 22px;
+  
+}
+
+#instructions li::marker{
+    color: #800000;
+}
+
+#instructions strong {
+    color: var(--negrito-faco);
+}
+
+#nutrition h5{
+    color: #800000;
+    font-family:"Young Serif", serif;
+    font-weight: 300;
+    font-size: 30px ;
+    margin:25px 0px;
+}
+
+#osp {
+    position: relative;
+}
+
+#osp p {
+    display: block;
+    margin:10px;
+    padding: 5px;
+    color: black;
+    padding-left: 30px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+}
+
+#osp span {
+    color:var(--li-marker);
+    position: absolute;
+    left: 60%; /* 50% da largura do elemento pai */
+    transform: translateX(-60%);
+    margin: 10px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    
+   
+}
+@media (min-width: 500vw)/*se for a cima disso faça*/{
+ #container {
+    border: 1px solid pink;
+    width: 660px;
+    padding: 50px;
+    border-radius: 20px;
+    margin: 40px 0 50px 60px;
+    align-items: center;
+    background: white;
+
+ }
+}
