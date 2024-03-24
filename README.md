@@ -11,7 +11,6 @@
 
 Este projeto foi feito com o intuito de eu aprimorar meus conhecimentos como <br>desenvolvedor, e ver se as minhas técnicas bases estão ligeiramente em uso
 
-[Frontend Mentor](https://www.frontendmentor.io) este é um exercicio de uma página de receita pego no front-end mentor.
 <h1>Linguagens Usadas ✌</h1>
 <ul>
    <li>HTML 📑</li> 
@@ -23,15 +22,15 @@ Este projeto foi feito com o intuito de eu aprimorar meus conhecimentos como <br
  </ul>
  <h1>Sobre o Front-End Mentor 👨‍🏫 </h1>
 <img alt='' src="https://github.com/Bielfer12/ingredient-recipe/blob/main/assets/images/front_end.png">
-<p><b>👩‍💻 O Front-End Mentor é um site aonde você pode achar varios tipos de design de páginas, indo desde lojas, ingredientes, logins, entre muitas outras variedades. Desenvolvida para desenvolvedores Web que procuram testar e aprimorar seus conhecimentos em HTML, CSS e JS.</b>
+<p><b>👩‍💻 O Front-End Mentor é um site aonde você pode achar vários tipos de design de páginas, indo desde lojas, ingredientes, logins, entre muitas outras variedades. Desenvolvida para desenvolvedores Web que procuram testar e aprimorar seus conhecimentos em HTML, CSS e JS.</b>
 
 <p>⭐ Vários tipos de Desafios.</p>
-<p>⭐ No proprio desafios ja aparece as competencias que precisa para faze-lo.</p>
+<p>⭐ No proprio desafio já aparece as competências que precisa para faze-lo.</p>
 <p>⭐ Testar os conhecimentos em desenvolvimento Web</p>
 <p>⭐ Link para o Front-End Mentor: https://www.frontendmentor.io</p>
 
 <h1>FIM!! 😉</h1>
-<p>Muito obrigado por dar uma olhada neste projeto, a baixo vou deixar meu perfil no Faront-End Mentor e outros links, até mais!!.</p> 
+<p>Muito obrigado por dar uma olhada neste projeto, a baixo vou deixar meu perfil no Front-End Mentor e outros links, até mais!!.</p> 
 
  <a href="https://www.instagram.com/gabriiel.casagrande/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielffernandes609@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
