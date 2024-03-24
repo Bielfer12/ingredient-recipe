@@ -22,5 +22,10 @@ Este projeto foi feito com o intuito de eu aprimorar meus conhecimentos como <br
    <li>Visual Studio Code 🔹</li>
  </ul>
  <h1>Sobre o Front-End Mentor 👨‍🏫 </h1>
+<img alt='' src="https://github.com/Bielfer12/ingredient-recipe/blob/main/assets/images/front_end.png">
+<p><b>O Front-End Mentor é um site aonde vocepode achar varios tipos de design de páginas, indo desde lojas, ingredientes, logins, entre muitas outras variedades. Desenvolvida para desenvolvedores Web que procuram testar e aprimorar seus conhecimentos em HTML, CSS e JS.</b>
+<ul>
+ <li>
+ 
  
 
