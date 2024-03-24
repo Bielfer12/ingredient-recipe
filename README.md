@@ -32,5 +32,9 @@ Este projeto foi feito com o intuito de eu aprimorar meus conhecimentos como <br
 
 <h1>FIM!! 😉</h1>
 <p>Muito obrigado por dar uma olhada neste projeto, a baixo vou deixar meu perfil no Faront-End Mentor e outros links, até mais!!.</p> 
+
+ <a href="https://www.instagram.com/gabriiel.casagrande/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielffernandes609@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-fernandes-56416b262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
